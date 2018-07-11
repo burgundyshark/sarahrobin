@@ -2,9 +2,9 @@ baseURL                 = "/"
 languageCode            = "en-us"
 title                   = "Sarah Robin - Development & Design"
 theme                   = "Sam"
-pygmentsStyle           = "manni"                     # https://help.farbox.com/pygments.html
+pygmentsStyle           = "manni"                      # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
-# googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
+# googleAnalytics       = "xxx"                        # Tracking code, eg. "UA-111111111-1"
 
 [params]
     dateform            = "Mon Jan 02, 2006"
@@ -14,7 +14,7 @@ pygmentsCodefences      = true
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     portfolioFolder     = "images/"                     # Where you've put your images, after "/content/portfolio/"
     clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = "Footer text is pretty heckin' cool"
+    footerText          = ""
 
 # Metadata
     # Max 160 characters show in search results

@@ -1,14 +1,10 @@
 ---
 title: "About"
-date: 2018-02-13T13:42:49-05:00
+date: 2018-07-11T02:23:07-07:00
 ---
 
-Hello, I'm Sam. I'm a theme for [Hugo](https://gohugo.io/). I'm an extremely customizable, content-focused theme that lets you showcase your work your way.
+Hi, I'm Sarah! I'm a freelance web developer, artist, plant mom, and tea enthusiast. I work primarily with a Javascript stack (though I've been known to tinker in Ruby & Python) on application-layer development with a focus on usability and creating common good.
 
-I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
+You can find my code on [GitHub](http://github.com/burgundyshark/), my doodles on [Dribbble](https://dribbble.com/burgundyshark), my resume on [LinkedIn](https://www.linkedin.com/in/sarah-robin/), and drop me a line on [Mastodon](https://lgbt.io/@burgundyshark).
 
-I also have a simple responsive gallery built with CSS grid. It'll look great on any screen, and all you have to do is provide a folder of images.
-
-I'm built and maintained by [Vicky Lai](https://vickylai.com). Here's her [GitHub](https://github.com/vickylai).
-
-This page uses the default `single.html` template.
+✨
