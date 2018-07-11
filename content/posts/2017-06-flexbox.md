@@ -1,7 +1,7 @@
 ---
 title: "Its 2017, why are you using Float?"
 date: 2017-06-04T02:23:07-07:00
-draft: true
+draft: false
 ---
 Dear internet still using floats for page layout,
 
