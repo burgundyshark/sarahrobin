@@ -24,13 +24,13 @@ pygmentsCodefences      = true
 
 
 [[params.mainMenu]]
-    link = "/portfolio"
+    link = "./portfolio"
     text = "work"
 
 [[params.mainMenu]]
-    link = "/posts"
+    link = "./posts"
     text = "writing"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "./about"
     text = "about"
