@@ -1,4 +1,4 @@
-baseURL                 = "https://www.sarahrobin.net/"
+baseURL                 = "http://www.sarahrobin.net/"
 languageCode            = "en-us"
 title                   = "Sarah Robin - Development & Design"
 theme                   = "Sam"
