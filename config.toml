@@ -1,0 +1,16 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sarah Robin - Development & Design"
+theme = "Sam"
+
+[[params.mainMenu]]
+    link = "/photography"
+    text = "photography"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "writing"
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "who dis?"
