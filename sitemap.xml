@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>sarahrobin.net/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2018-07-11T02:23:07-07:00</lastmod>
   </url>
   
   <url>
-    <loc>sarahrobin.net/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2018-02-13T12:21:57-05:00</lastmod>
   </url>
   
   <url>
-    <loc>sarahrobin.net/posts/2017-06-flexbox/</loc>
+    <loc>/posts/2017-06-flexbox/</loc>
     <lastmod>2017-06-04T02:23:07-07:00</lastmod>
   </url>
   
   <url>
-    <loc>sarahrobin.net/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>sarahrobin.net/</loc>
+    <loc>/</loc>
     <lastmod>2018-07-11T02:23:07-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>sarahrobin.net/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>sarahrobin.net/portfolio/</loc>
+    <loc>/portfolio/</loc>
   </url>
   
 </urlset>

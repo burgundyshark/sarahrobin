@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sarah Robin - Development &amp; Design</title>
-    <link>sarahrobin.net/</link>
+    <link>/</link>
     <description>Recent content on Sarah Robin - Development &amp; Design</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Jul 2018 02:23:07 -0700</lastBuildDate>
     
-	<atom:link href="sarahrobin.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>sarahrobin.net/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 11 Jul 2018 02:23:07 -0700</pubDate>
       
-      <guid>sarahrobin.net/about/</guid>
+      <guid>/about/</guid>
       <description>Hi, I&amp;rsquo;m Sarah! I&amp;rsquo;m a freelance web developer, artist, plant mom, and tea enthusiast. I work primarily with a Javascript stack (though I&amp;rsquo;ve been known to tinker in Ruby &amp;amp; Python) on application-layer development with a focus on usability and creating common good.
 You can find my code on GitHub, my doodles on Dribbble, my resume on LinkedIn, and drop me a line on Mastodon.
 ✨</description>
@@ -24,10 +24,10 @@ You can find my code on GitHub, my doodles on Dribbble, my resume on LinkedIn, a
     
     <item>
       <title>Its 2017, why are you using Float?</title>
-      <link>sarahrobin.net/posts/2017-06-flexbox/</link>
+      <link>/posts/2017-06-flexbox/</link>
       <pubDate>Sun, 04 Jun 2017 02:23:07 -0700</pubDate>
       
-      <guid>sarahrobin.net/posts/2017-06-flexbox/</guid>
+      <guid>/posts/2017-06-flexbox/</guid>
       <description>Dear internet still using floats for page layout,
 Why not flexbox?
 Is it because you’re worried about browser support? You shouldn’t be. Unless you need to support IE 10 and under (which is the definition of true sadness in 2016), you’re supported!
