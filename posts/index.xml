@@ -11,5 +11,17 @@
 	<atom:link href="https://burgundyshark.github.io/sarahrobin.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Its 2017, why are you using Float?</title>
+      <link>https://burgundyshark.github.io/sarahrobin.net/posts/2017-06-flexbox/</link>
+      <pubDate>Sun, 04 Jun 2017 02:23:07 -0700</pubDate>
+      
+      <guid>https://burgundyshark.github.io/sarahrobin.net/posts/2017-06-flexbox/</guid>
+      <description>Dear internet still using floats for page layout,
+Why not flexbox?
+Is it because you’re worried about browser support? You shouldn’t be. Unless you need to support IE 10 and under (which is the definition of true sadness in 2016), you’re supported!
+Is it because you’re using a prefab grid system in a larger framework? Well, both Bootstrap and Foundation have moved to flexbox grids instead of float-based ones. In fact, a lot of what flexbox allows you to do is recreate complex layouts that used to require a framework in just a couple of lines of vanilla CSS!</description>
+    </item>
+    
   </channel>
 </rss>
