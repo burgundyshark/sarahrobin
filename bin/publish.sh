@@ -27,3 +27,11 @@ hugo
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+
+echo "Pushing gh-pages branch"
+git push
+
+echo "Wrapping up..."
+cd ..
+
+echo "Mischief managed!"
