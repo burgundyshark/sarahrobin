@@ -1,7 +1,7 @@
 ---
-title: "Posts"
+title: "Writing"
 date: 2018-02-13T12:21:57-05:00
 
 ---
 
-Welcome to the blog section! This page uses the default `list.html` template. Write anything you like here. You can set this text with your `_index.md` in the `/content/posts/` folder.
+My thoughts and ramblings, in chronological order. I also write the 'Git Basics' series for [Alligator.io](https://alligator.io/author/sarah-robin).
