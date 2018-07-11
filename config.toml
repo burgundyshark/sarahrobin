@@ -1,11 +1,30 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Sarah Robin - Development & Design"
-theme = "Sam"
+baseURL                 = "/"
+languageCode            = "en-us"
+title                   = "Sarah Robin - Development & Design"
+theme                   = "Sam"
+pygmentsStyle           = "manni"                     # https://help.farbox.com/pygments.html
+pygmentsCodefences      = true
+# googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform            = "Mon Jan 02, 2006"
+    dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
+    favicon             = "/sam.ico"
+    homepage            = "main"                        # What to call the home page link
+    galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
+    clickablePhotos     = true                          # Allow links to the full size images
+    footerText          = "Footer text is pretty heckin' cool"
+
+# Metadata
+    # Max 160 characters show in search results
+    description         = "Sarah Robin is a freelance web developer, designer, and artist"            
+    twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
+    primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
+
 
 [[params.mainMenu]]
-    link = "/photography"
-    text = "photography"
+    link = "/gallery"
+    text = "work"
 
 [[params.mainMenu]]
     link = "/posts"
@@ -13,4 +32,4 @@ theme = "Sam"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who dis?"
+    text = "about"
