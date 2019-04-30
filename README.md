@@ -1,6 +1,4 @@
-# sarahrobin.net
-
-A personal website & blog built with [Hugo](https://gohugo.io/), the [Sam theme](https://themes.gohugo.io/hugo-theme-sam/), and [Terra.js](https://rileyjshaw.com/terra/). 
+A website & blog built with [Hugo](https://gohugo.io/), the [Sam theme](https://themes.gohugo.io/hugo-theme-sam/), and [Terra.js](https://rileyjshaw.com/terra/). 
 
 ## Dev setup
 * Clone the repo
